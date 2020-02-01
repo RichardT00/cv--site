@@ -1,0 +1,81 @@
+
+.avatar{
+    height: 20%;
+    margin-top:5%;
+    width:20%;
+    border-radius: 100%;
+}
+
+body{
+    background-color: #c7f0db;
+    text-align:center;
+
+}
+.btn{
+margin-right: 2.5%;
+margin-left: 2.5%;
+}
+.header{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #464159;
+}
+
+.name{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin-top: 2%;
+    margin-bottom:2%;
+    font-size: 400%;
+}
+.footer{
+    background-color: #464159;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+.rec-image{
+    float: left;
+    margin-right:5%;
+    width: 25%;
+}
+.rec-image2{
+    float: left;
+    margin-right:5%;
+    width: 15%;
+}
+.row-image{
+    float: left;
+    vertical-align: middle;
+    margin-right: 5%;
+    border-radius: 100%;
+    width: 17%;
+}
+.section{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    float: center;
+}
+.section-row{
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10%;
+    text-align: left;
+    text-align: justify;
+}
+.section-s{
+   margin-left: 10%; 
+}
+.section-title{
+    font-weight: bold;
+    color:white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #464159;
+    padding-top: .5;
+    padding-bottom: .5%;
+}
+.sub-title{
+    font-weight: bold;
+    font-size: larger;
+}
